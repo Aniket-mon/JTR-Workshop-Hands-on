@@ -34,7 +34,7 @@ curl -L "https://drive.google.com/uc?export=download&id=1L_HO6jcysbGFaJP-QwV5Ao2
 
 ```bash
 git clone https://github.com/Aniket-mon/JTR-Workshop-Hands-on.git
-cd JTR-Workshop-HandsOn
+cd JTR-Workshop-Hands-on
 sudo apt-get update && sudo apt-get dist-upgrade -y
 sudo apt-get install -y john python3 python3-pip unzip curl
 curl -L "https://drive.google.com/uc?export=download&id=1L_HO6jcysbGFaJP-QwV5Ao2lkymq4ssY" -o rockyou.txt
