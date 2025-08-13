@@ -82,6 +82,6 @@ During the hands-on session, we will cover:
 ---
 
 **Next Step:**
-Once you’ve completed this hands-on session, you’ll be fully ready to tackle the [JTR Challenge](https://github.com/Aniket-mon/JTR-Workshop) and compete for the top spot!
+Once you’ve completed this hands-on session, you’ll be fully ready to tackle the [JTR Challenge] and compete for the top spot!
 
 ---
