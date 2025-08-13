@@ -33,7 +33,7 @@ curl -L "https://drive.google.com/uc?export=download&id=1L_HO6jcysbGFaJP-QwV5Ao2
 ### **2. For Local (Non-Codespace) Users**
 
 ```bash
-git clone https://github.com/Aniket-mon/JTR-Workshop-HandsOn.git
+git clone https://github.com/Aniket-mon/JTR-Workshop-Hands-on.git
 cd JTR-Workshop-HandsOn
 sudo apt-get update && sudo apt-get dist-upgrade -y
 sudo apt-get install -y john python3 python3-pip unzip curl
