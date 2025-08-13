@@ -7,7 +7,7 @@ In this part, we will **learn and practice** how to use John the Ripper step-by-
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 By the end of this session, you will:
 
@@ -18,7 +18,7 @@ By the end of this session, you will:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow the setup instructions below to prepare your environment.
 
@@ -42,7 +42,7 @@ curl -L "https://drive.google.com/uc?export=download&id=1L_HO6jcysbGFaJP-QwV5Ao2
 
 ---
 
-## 🛠 What We’ll Do
+##  What We’ll Do
 
 During the hands-on session, we will cover:
 
@@ -72,7 +72,7 @@ During the hands-on session, we will cover:
 ---
 
 
-## 💡 Pro Tips
+##  Pro Tips
 
 * Always check the hash format before cracking.
 * Use `--format` when John doesn’t detect it automatically.
